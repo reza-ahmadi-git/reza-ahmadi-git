@@ -1,16 +1,24 @@
-## Hi there 👋
+# سلام! رضا احمدی هستم
 
-<!--
-**reza-ahmadi-git/reza-ahmadi-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+همیشه در تلاش هستم تا دانش و مهارت‌هایم را در برنامه نویسی گسترش دهم.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 درباره من
+
+حوزه علاقه‌مندی: توسعه نرم‌افزار، یادگیری تکنولوژی های جدید و هوش مصنوعی.
+
+ابزارها و زبان‌های برنامه‌نویسی:
+زبان‌ها: JavaScript 
+فریم‌ورک‌ها: React
+فریم‌ورک‌ها: Tailwind
+ابزارهای توسعه: Git
+
+---
+
+## 🔗 ارتباط با من
+
+برای همکاری، پرسیدن سوال، یا هرگونه تبادل نظر در مورد برنامه‌نویسی، خوشحال می‌شوم با من در ارتباط باشید.
+
+ایمیل:
+[ahmadireza.1791@gmail.com]
